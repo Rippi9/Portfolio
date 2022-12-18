@@ -52,11 +52,26 @@ h1 {
     font-size: 50px;
     margin: 0;
 }
+
+h2 {
+
+    font-size: 50px;
+}
+
+h3 {
+    font-size: 50px;
+}
+
 p {
     margin: 0;
     font-size: 30px;
     font-weight: 300;
 
+}
+
+.subtext {
+    font-size: 15px;
+    font-weight: 300;
 }
 
 .hero-area{
@@ -115,4 +130,28 @@ p {
 .sub-section {
     display: flex;
     justify-content: space-around;
+}
+
+.sub-section-alternative {
+    display: flex;
+    flex-direction: column; 
+    text-align: center;
+    padding: 80px;
+}
+
+.project-card {
+    width: 300px;
+    height: 500px;
+    box-shadow: 5px 5px 20px;
+}
+
+.project-container{
+    display: flex;
+    justify-content: space-around;
+}
+
+.project-image {
+    width: 150px;
+    margin-top: 25px;   
+    border-radius: 125px;
 }
