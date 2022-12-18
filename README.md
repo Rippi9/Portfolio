@@ -24,3 +24,9 @@ Our task was to create a portfolio
 
 This will be my CV where future employers can veiw my work and see if i'm suitable for the job!
 
+## Mock-Up
+
+The following animation shows the web application's appearance and functionality:
+
+![portfolio demo](./photos/02-advanced-css-homework-demo.gif)
+
