@@ -24,9 +24,20 @@ Our task was to create a portfolio
 
 This will be my CV where future employers can veiw my work and see if i'm suitable for the job!
 
+To use and view this challenge please use this the following link to access the deployed website:
+
+ "https://rippi9.github.io/Portfolio/"
+
+ ![image1p](./photos/portfolio%20p1.png)
+ ![image1p](./photos/portfolio%20p2.png)
+
+
 ## Mock-Up
 
 The following animation shows the web application's appearance and functionality:
 
 ![portfolio demo](./photos/02-advanced-css-homework-demo.gif)
+
+
+
 
