@@ -144,6 +144,12 @@ p {
 
 
 /* */
+.group-projects{
+    display: flex;
+    justify-content:space-around
+
+}
+
 .project-container{
     display: flex;
     justify-content: space-around;
